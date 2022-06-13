@@ -11,3 +11,12 @@ let 오브젝트1:{userName: string, userLast: string} = { userName : 'kim', use
 
 //온갖 곳에 다 하지말고 
 let 회원들2 = 'park' //기본적인 타입 지정 원래 자동으로 됩니다. 
+
+let 앨범:{title: string, singer: string} = { title: 'yohoho', singer: 'hi' }
+
+
+let project = {
+    member : ['kim', 'park'],
+    days: 30,
+    started: true,
+}
